@@ -196,7 +196,7 @@ section .title2::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/preclogo.jpg") no-repeat center;
+    background: url("images/BarnOwlPrecisionAg(BOPA).png") no-repeat center;
     height: 100vh;
     color: rgb(0, 0, 0);
     min-height: 500px;
